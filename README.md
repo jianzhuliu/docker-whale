@@ -1,5 +1,5 @@
 ## docker-whale
-学习 docker demo
+docker小测试
 
 ## 创建镜像
 >- docker build -t docker:whale .
