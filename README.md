@@ -1,6 +1,9 @@
 ## docker-whale
 docker小测试
 
+## 拉取镜像
+>- docker pull jianzhuliu/docker-whale
+
 ## 创建镜像
 >- docker build -t docker:whale .
 
